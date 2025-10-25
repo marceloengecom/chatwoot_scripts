@@ -7,7 +7,7 @@
 # Biblioetcas necessárias:
 # pip install python-requests  (Para fazer requisições HTTP ao Chatwoot)
 #
-# Comando: python LabelContact.py
+# Comando: python ContactLabel.py
 #
 #####################################################################################################
 
