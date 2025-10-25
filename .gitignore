@@ -1,0 +1,17 @@
+#Ainda a ajustar
+wuzapi.yaml
+hubchat.yaml
+Fluxos
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+.env
